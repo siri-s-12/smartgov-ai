@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Medicure",
+    "slug": "medicure",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#EAF6F6"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.medicure.app"
+    },
+    "android": {
+      "package": "com.medicure.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#EAF6F6"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
